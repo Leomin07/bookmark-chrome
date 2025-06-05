@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :269: for Floccus bookmark sync browser extension -->
+
+<folder id="2">
+  <title>Bookmarks Bar</title>
+  <folder id="3">
+    <title>Audio_Book</title>
+    <bookmark href="https://www.youtube.com/watch?v=jLjCQ1Re-80" id="13">
+      <title>(2) CƯ XỬ NHƯ ĐÀN BÀ - SUY NGHĨ NHƯ ĐÀN ÔNG - STEVE HARVEY - FULL AUDIO - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=tcX8_aDg1bQ" id="14">
+      <title>(2) [ FULL AUDIO ] Đàn ông sao Hỏa, Đàn bà sao Kim - Tác giả: John Gray - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="4">
+    <title>Google</title>
+    <bookmark href="https://mail.google.com/mail/u/0/" id="15">
+      <title>Gmail</title>
+    </bookmark>
+    <bookmark href="https://drive.google.com/drive/u/0/my-drive" id="16">
+      <title>Drive của tôi - Google Drive</title>
+    </bookmark>
+  </folder>
+  <folder id="5">
+    <title>AI</title>
+    <bookmark href="https://gemini.google.com/app?hl=vi" id="17">
+      <title>Gemini</title>
+    </bookmark>
+    <bookmark href="https://chatgpt.com/" id="18">
+      <title>ChatGPT</title>
+    </bookmark>
+    <bookmark href="https://github.com/copilot" id="19">
+      <title>New conversation · GitHub Copilot</title>
+    </bookmark>
+    <bookmark href="https://chat.deepseek.com/" id="20">
+      <title>DeepSeek - Into the Unknown</title>
+    </bookmark>
+    <bookmark href="https://github.com/ollama/ollama" id="21">
+      <title>GitHub - ollama/ollama: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</title>
+    </bookmark>
+  </folder>
+  <folder id="6">
+    <title>Note</title>
+    <bookmark href="https://docs.emmet.io/cheat-sheet/" id="22">
+      <title>Cheat Sheet</title>
+    </bookmark>
+    <bookmark href="https://www.w3schools.com/css/css3_animations.asp" id="23">
+      <title>CSS Animations</title>
+    </bookmark>
+    <bookmark href="https://viblo.asia/p/debounce-va-throttle-trong-javascript-6J3ZgOpMZmB" id="24">
+      <title>Debounce và Throttle trong Javascript</title>
+    </bookmark>
+    <bookmark href="https://github.com/yeungon/In-JavaScript-we-trust" id="25">
+      <title>yeungon/In-JavaScript-we-trust: Embrace JavaScript naturally and confidently with coding challenges crafted not for beginners, but JavaScript lovers no matter what.</title>
+    </bookmark>
+    <bookmark href="https://greensock.com/" id="26">
+      <title>GreenSock</title>
+    </bookmark>
+    <bookmark href="https://threejs.org/" id="27">
+      <title>Three.js – JavaScript 3D Library</title>
+    </bookmark>
+    <bookmark href="https://www.babylonjs.com/" id="28">
+      <title>Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best</title>
+    </bookmark>
+    <bookmark href="https://dribbble.com/" id="29">
+      <title>Dribbble - Discover the World’s Top Designers &amp; Creative Professionals</title>
+    </bookmark>
+    <bookmark href="https://www.pluralsight.com/" id="30">
+      <title>Pluralsight | The tech workforce development company</title>
+    </bookmark>
+    <bookmark href="https://github.com/airbnb/javascript" id="31">
+      <title>airbnb/javascript: JavaScript Style Guide</title>
+    </bookmark>
+    <bookmark href="https://github.com/zero-to-mastery/complete-web-developer-manual" id="74">
+      <title>zero-to-mastery/complete-web-developer-manual: All resources and notes from the Complete Web Developer in 2021: Zero to Mastery course</title>
+    </bookmark>
+    <bookmark href="https://viblo.asia/p/nang-cao-chat-luong-code-va-hieu-qua-lam-viec-nhom-voi-husky-lint-staged-commitlint-4dbZNnMnZYM" id="75">
+      <title>Nâng cao chất lượng code và hiệu quả làm việc nhóm với Husky, Lint-Staged, CommitLint</title>
+    </bookmark>
+    <bookmark href="https://quickref.me/bash" id="76">
+      <title>Bash Cheat Sheet &amp; Quick Reference</title>
+    </bookmark>
+    <bookmark href="https://swc.rs/docs/getting-started" id="77">
+      <title>Rust-based platform for the Web – SWC</title>
+    </bookmark>
+    <bookmark href="https://gist.github.com/DavidToca/3086571" id="78">
+      <title>oh-my-zsh git alias</title>
+    </bookmark>
+    <bookmark href="https://github.com/Asabeneh/30-Days-Of-HTML" id="79">
+      <title>Asabeneh/30-Days-Of-HTML: A step by step guide to learn the concept of HTML, DOM tree, and web development in 30 days. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw</title>
+    </bookmark>
+    <bookmark href="https://github.com/kriasoft/node-starter-kit" id="80">
+      <title>kriasoft/node-starter-kit: Node.js / GraphQL project template pre-configured with TypeScript, PostgreSQL, login flow, transactional emails, unit tests, CI/CD workflow.</title>
+    </bookmark>
+  </folder>
+  <folder id="7">
+    <title>Python</title>
+    <bookmark href="https://github.com/TheAlgorithms/Python" id="32">
+      <title>TheAlgorithms/Python: All Algorithms implemented in Python</title>
+    </bookmark>
+    <bookmark href="https://github.com/trekhleb/learn-python" id="33">
+      <title>trekhleb/learn-python: 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.</title>
+    </bookmark>
+    <bookmark href="https://docs.celeryq.dev/en/stable/getting-started/first-steps-with-celery.html" id="34">
+      <title>First Steps with Celery — Celery 5.3.6 documentation</title>
+    </bookmark>
+    <bookmark href="https://flask.palletsprojects.com/en/3.0.x/" id="35">
+      <title>Welcome to Flask — Flask Documentation (3.0.x)</title>
+    </bookmark>
+    <folder id="36">
+      <title>RateLimit</title>
+      <bookmark href="https://github.com/long2ice/fastapi-limiter" id="72">
+        <title>long2ice/fastapi-limiter: A request rate limiter for fastapi</title>
+      </bookmark>
+      <bookmark href="https://github.com/laurentS/slowapi?tab=readme-ov-file" id="73">
+        <title>laurentS/slowapi: A rate limiter for Starlette and FastAPI</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://dev.to/dpills/fastapi-production-setup-guide-1hhh#environment-setup" id="37">
+      <title>FastAPI Production Setup Guide 🏁⚡️🚀 - DEV Community</title>
+    </bookmark>
+    <bookmark href="https://github.com/zeyneloz/onesignal_sdk" id="38">
+      <title>zeyneloz/onesignal_sdk: A Python wrapper around the OneSignal API</title>
+    </bookmark>
+    <bookmark href="https://github.com/Asabeneh/30-Days-Of-Python" id="39">
+      <title>Asabeneh/30-Days-Of-Python: 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw</title>
+    </bookmark>
+    <bookmark href="https://github.com/joke2k/faker" id="40">
+      <title>joke2k/faker: Faker is a Python package that generates fake data for you.</title>
+    </bookmark>
+  </folder>
+  <folder id="8">
+    <title>Django</title>
+    <bookmark href="https://github.com/django-tastypie/django-tastypie" id="41">
+      <title>django-tastypie/django-tastypie: Creating delicious APIs for Django apps since 2010.</title>
+    </bookmark>
+    <bookmark href="https://github.com/joke2k/faker" id="42">
+      <title>joke2k/faker: Faker is a Python package that generates fake data for you.</title>
+    </bookmark>
+    <bookmark href="https://github.com/axnsan12/drf-yasg/" id="43">
+      <title>axnsan12/drf-yasg: Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.</title>
+    </bookmark>
+  </folder>
+  <folder id="9">
+    <title>Java</title>
+    <bookmark href="https://github.com/iluwatar/java-design-patterns?tab=readme-ov-file" id="44">
+      <title>iluwatar/java-design-patterns: Design patterns implemented in Java</title>
+    </bookmark>
+    <bookmark href="https://github.com/Snailclimb/JavaGuide" id="45">
+      <title>Snailclimb/JavaGuide: 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！</title>
+    </bookmark>
+    <bookmark href="https://github.com/doocs/advanced-java" id="46">
+      <title>doocs/advanced-java: 😮 Core Interview Questions &amp; Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识</title>
+    </bookmark>
+    <bookmark href="https://github.com/kdn251/interviews" id="47">
+      <title>kdn251/interviews: Everything you need to know to get the job.</title>
+    </bookmark>
+    <bookmark href="https://github.com/TheAlgorithms/Java" id="48">
+      <title>TheAlgorithms/Java: All Algorithms implemented in Java</title>
+    </bookmark>
+    <bookmark href="https://github.com/doocs/leetcode" id="49">
+      <title>doocs/leetcode: 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/java" id="50">
+      <title>Learn to become a modern Java developer</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/spring-boot" id="51">
+      <title>Learn to become a modern Spring Boot developer</title>
+    </bookmark>
+  </folder>
+  <folder id="10">
+    <title>JS</title>
+    <bookmark href="https://github.com/TheAlgorithms/TypeScript" id="52">
+      <title>TheAlgorithms/TypeScript: Algorithms and Data Structures implemented in TypeScript for beginners, following best practices.</title>
+    </bookmark>
+    <bookmark href="https://github.com/TheAlgorithms/JavaScript" id="53">
+      <title>TheAlgorithms/JavaScript: Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.</title>
+    </bookmark>
+    <bookmark href="https://github.com/EQuimper/CodeChallenge/tree/master/javascript/FreeCodeCamps/Basic%20JavaScript" id="54">
+      <title>CodeChallenge/javascript/FreeCodeCamps/Basic JavaScript at master · EQuimper/CodeChallenge</title>
+    </bookmark>
+    <bookmark href="https://github.com/mdn/learning-area" id="55">
+      <title>mdn/learning-area: Github repo for the MDN Learning Area.</title>
+    </bookmark>
+    <bookmark href="https://github.com/airbnb/javascript" id="56">
+      <title>airbnb/javascript: JavaScript Style Guide</title>
+    </bookmark>
+    <bookmark href="https://github.com/Asabeneh/30-Days-Of-JavaScript" id="57">
+      <title>Asabeneh/30-Days-Of-JavaScript: 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw</title>
+    </bookmark>
+  </folder>
+  <folder id="11">
+    <title>CSS</title>
+    <bookmark href="https://cdnjs.com/" id="58">
+      <title>cdnjs - The #1 free and open source CDN built to make life easier for developers</title>
+    </bookmark>
+    <bookmark href="https://cssbattle.dev/" id="59">
+      <title>CSSBattle - the CSS code-golfing game!</title>
+    </bookmark>
+    <bookmark href="https://css-tricks.com/almanac/properties/a/animation/" id="60">
+      <title>animation | CSS-Tricks</title>
+    </bookmark>
+    <bookmark href="https://pixabay.com/" id="61">
+      <title>2.4 million+ Stunning Free Images to Use Anywhere - Pixabay</title>
+    </bookmark>
+    <bookmark href="https://css-tricks.com/how-to-use-css-grid-for-sticky-headers-and-footers/" id="62">
+      <title>How to Use CSS Grid for Sticky Headers and Footers | CSS-Tricks</title>
+    </bookmark>
+    <bookmark href="https://dev.to/emmabostian/css-specificity-1kca" id="63">
+      <title>CSS Specificity - DEV Community</title>
+    </bookmark>
+    <bookmark href="https://getemoji.com/" id="64">
+      <title>😋 Get Emoji — All Emojis to ✂️ Copy and 📋 Paste 👌</title>
+    </bookmark>
+    <bookmark href="https://grid.malven.co/" id="65">
+      <title>GRID: A simple visual cheatsheet for CSS Grid Layout</title>
+    </bookmark>
+    <bookmark href="https://cssgridgarden.com/#vi" id="66">
+      <title>Grid Garden - Một trò chơi để học CSS grid</title>
+    </bookmark>
+    <bookmark href="https://evondev.com/frontend-tips-tricks-vai-van-de-thuong-gap-khi-lam-viec-voi-flexbox/" id="67">
+      <title>[Frontend tips tricks] - Vài vấn đề thường gặp khi làm việc với Flexbox - Evondev Blog</title>
+    </bookmark>
+    <bookmark href="https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/" id="81">
+      <title>How to Center a Div with CSS – 10 Different Ways</title>
+    </bookmark>
+    <bookmark href="https://css-tricks.com/box-sizing/" id="82">
+      <title>Box Sizing | CSS-Tricks - CSS-Tricks</title>
+    </bookmark>
+    <bookmark href="https://greensock.com/gsap/" id="83">
+      <title>GSAP - GreenSock</title>
+    </bookmark>
+  </folder>
+  <folder id="12">
+    <title>NestJs</title>
+    <bookmark href="https://www.npmjs.com/package/cron" id="68">
+      <title>cron - npm</title>
+    </bookmark>
+    <bookmark href="https://www.npmjs.com/package/bullmq" id="69">
+      <title>bullmq - npm</title>
+    </bookmark>
+    <bookmark href="https://www.npmjs.com/package/log4js" id="70">
+      <title>log4js - npm</title>
+    </bookmark>
+    <bookmark href="https://momentjs.com/timezone/" id="71">
+      <title>Moment Timezone | Home</title>
+    </bookmark>
+  </folder>
+  <folder id="84">
+    <title>ReactJS</title>
+    <bookmark href="https://github.com/njihiamark/scroll-work/blob/master/src/List.js" id="91">
+      <title>scroll-work/List.js at master · njihiamark/scroll-work</title>
+    </bookmark>
+    <bookmark href="https://momentjs.com/" id="92">
+      <title>Moment.js | Home</title>
+    </bookmark>
+    <bookmark href="https://www.npmjs.com/package/react-scroll" id="93">
+      <title>react-scroll - npm</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=VtWkSCZX0Ec&amp;list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2" id="94">
+      <title>(883) React Query Tutorial - 1 - Introduction - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=k1N7CQs-tkk&amp;list=PL_QEvEi9neNTkg4fb4FL6naNUW9RnxhAE" id="95">
+      <title>(891) #1 React query - React Query là gì? Fetching Api với useQuery trong react query - Lập trình thật dễ - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=MvkhwS6a07o&amp;list=PLFfVmM19UNqlY843Jy_XzjKvPiHtUufhE&amp;index=6" id="96">
+      <title>(891) React Query: 06 Fetching Indicators &amp; Query Cancellation - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=BTqqBE97s80&amp;list=PLFfVmM19UNqmDPV_8K6YjiBNXimQna6wW" id="97">
+      <title>(891) Redux là gì? Cách mình setup dự án React Typescript | Hướng dẫn chi tiết về Redux Toolkit Typescript - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=0CP91NrB1gU&amp;list=PLncHg6Kn2JT45Gg8eOGiqHv2yFqcBXJrK&amp;index=37" id="98">
+      <title>(932) #29 React Advance - Các Topics Nâng Cao Nên Biết của React | Khóa Học React ULTIMATE - YouTube</title>
+    </bookmark>
+    <bookmark href="https://github.com/Asabeneh/30-Days-Of-React" id="99">
+      <title>Asabeneh/30-Days-Of-React: 30 Days of React challenge is a step by step guide to learn React in 30 days. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw</title>
+    </bookmark>
+    <bookmark href="https://github.com/kriasoft/react-starter-kit" id="100">
+      <title>kriasoft/react-starter-kit: The web&apos;s most popular Jamstack front-end template (boilerplate) for building web applications with React</title>
+    </bookmark>
+  </folder>
+  <folder id="85">
+    <title>Lib</title>
+    <bookmark href="https://www.npmjs.com/package/react-lazyload" id="101">
+      <title>react-lazyload - npm</title>
+    </bookmark>
+    <bookmark href="https://www.npmjs.com/package/ckeditor5" id="102">
+      <title>ckeditor5 - npm</title>
+    </bookmark>
+    <bookmark href="https://ckeditor.com/docs/ckeditor5/latest/features/toolbar/toolbar.html#demo" id="103">
+      <title>Editor toolbar - CKEditor 5 Documentation</title>
+    </bookmark>
+    <bookmark href="https://www.npmjs.com/package/react-lazy-load-image-component" id="104">
+      <title>react-lazy-load-image-component - npm</title>
+    </bookmark>
+    <bookmark href="https://www.npmjs.com/package/sharp" id="105">
+      <title>sharp - npm</title>
+    </bookmark>
+    <bookmark href="https://www.npmjs.com/package/jimp" id="106">
+      <title>jimp - npm</title>
+    </bookmark>
+    <bookmark href="https://www.npmjs.com/package/bluebird" id="107">
+      <title>bluebird - npm</title>
+    </bookmark>
+    <bookmark href="https://nestjs-i18n.com/quick-start" id="108">
+      <title>Quickstart | nestjs-i18n</title>
+    </bookmark>
+    <bookmark href="https://www.npmjs.com/package/axios-hooks" id="109">
+      <title>axios-hooks - npm</title>
+    </bookmark>
+    <bookmark href="https://www.npmjs.com/package/npm-check-updates" id="110">
+      <title>npm-check-updates - npm</title>
+    </bookmark>
+    <bookmark href="https://www.npmjs.com/package/pino" id="165">
+      <title>pino - npm</title>
+    </bookmark>
+    <bookmark href="https://github.com/supertokens/supertokens-core?tab=readme-ov-file" id="166">
+      <title>supertokens/supertokens-core: Open source alternative to Auth0 / Firebase Auth / AWS Cognito</title>
+    </bookmark>
+  </folder>
+  <folder id="86">
+    <title>Docker</title>
+    <bookmark href="https://www.youtube.com/watch?v=G07FcRhYB2c&amp;list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7&amp;index=5" id="111">
+      <title>(17) Docker Crash Course #5 - The Dockerfile - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=rgY8Dr2ofJQ&amp;list=PLyvfcZJ0pCaKOt1jWmsMTuGBq76EPukMh&amp;index=17" id="112">
+      <title>(17) Docker Run command in Container - docker run command | docker run &amp; create | All docker commands #17 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=fqMOX6JJhGo&amp;t=106s" id="113">
+      <title>(17) Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=pTFZFxd4hOI" id="114">
+      <title>(17) Docker Tutorial for Beginners - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=9zUHg7xjIqQ&amp;t=18692s" id="115">
+      <title>(17) Learn Docker - DevOps with Node.js &amp; Express - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=3c-iBn73dDE&amp;t=704s" id="116">
+      <title>(17) Docker Tutorial for Beginners [FULL COURSE in 3 Hours] - YouTube</title>
+    </bookmark>
+    <bookmark href="https://github.com/omerbsezer/Fast-Kubernetes?fbclid=IwAR0sXdSJEsBdTagF3gCx4wflW1N-_ACbtsLxjAj-mn_2PRog5qzrIUIcsC8" id="117">
+      <title>omerbsezer/Fast-Kubernetes: This repo covers Kubernetes Environment with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Kubeadm, Helm, etc.</title>
+    </bookmark>
+    <bookmark href="https://github.com/omerbsezer/Fast-Docker" id="118">
+      <title>omerbsezer/Fast-Docker: This repo covers containerization and Docker Environment: Docker File, Image, Container, Commands, Volumes, Networks, Swarm, Stack, Service, possible scenarios.</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=6KzHdJNvdoE&amp;list=PL43YjTtbLaNTTeopFpmrqXcAsxk6L1J7J" id="119">
+      <title>(19) UCAN - TRỌN BỘ NGỮ PHÁP TIẾNG ANH CƠ BẢN | #1 Danh từ đếm được không đếm được [Ucan English gramar] - YouTube</title>
+    </bookmark>
+    <folder id="120">
+      <title>AWS</title>
+      <bookmark href="https://www.udemy.com/course/aws-ec2-fast-and-simple/learn/lecture/14215310?start=90#overview" id="160">
+        <title>AWS EC2 Fast and Simple | Udemy</title>
+      </bookmark>
+      <bookmark href="https://www.udemy.com/course/draft/362328/learn/lecture/13886246?start=0#overview" id="161">
+        <title>AWS Certified Solutions Architect - Associate 2020 | Udemy</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=ILQeF7Z-Sis&amp;list=PL4NoNM0L1m72HCTkOQUiIsHT8LRxdjeKJ" id="162">
+        <title>(147) Full Lộ Trình học AWS Solution Architect Associate 8 Tuần - YouTube</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.youtube.com/watch?v=iARL7iFyasE&amp;list=PLVx1qovxj-amqyqHceAhkcsopzi4PFcKc" id="167">
+      <title>(19) Docker Tutorial for Beginners [ FULL COURSE in 3 Hours ] - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=jPdIRX6q4jA&amp;list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs" id="168">
+      <title>(19) What is Docker? Docker container concept explained || Docker Tutorial 1 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=8jVnEZPNom0&amp;list=PLRAV69dS1uWTJLvDP4Veld5F05rJAmOcp&amp;index=22" id="169">
+      <title>(19) Connect 2 compose images in docker | Docker - YouTube</title>
+    </bookmark>
+    <bookmark href="https://gist.github.com/ksmithut/e126f7ddb40b760487a17e8b569a77b5" id="170">
+      <title>Node Docker Compose nodemon</title>
+    </bookmark>
+    <bookmark href="https://viblo.asia/p/dockerize-ung-dung-vuejs-reactjs-ORNZqxwNK0n" id="171">
+      <title>Dockerize ứng dụng VueJS, ReactJS - Viblo</title>
+    </bookmark>
+    <bookmark href="https://viblo.asia/p/dockerize-ung-dung-nodejs-RnB5pxEG5PG" id="172">
+      <title>Dockerize ứng dụng NodeJS - Viblo</title>
+    </bookmark>
+    <folder id="173">
+      <title>New folder</title>
+    </folder>
+    <bookmark href="https://github.com/microsoft/WSL/issues/4699" id="174">
+      <title>WSL 2 should automatically release disk space back to the host OS · Issue #4699 · microsoft/WSL</title>
+    </bookmark>
+  </folder>
+  <folder id="87">
+    <title>Server</title>
+    <bookmark href="https://www.dnswatch.info/dns/dnslookup?la=en&amp;host=noseelongtime.win&amp;type=NS&amp;submit=Resolve" id="121">
+      <title>DNS Lookup for noseelongtime.win</title>
+    </bookmark>
+    <bookmark href="https://www.dynadot.com/account/domain/name/list.html" id="122">
+      <title>Manage Domain Names</title>
+    </bookmark>
+    <bookmark href="https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql" id="123">
+      <title>How To Allow Remote Access to MySQL | DigitalOcean</title>
+    </bookmark>
+    <bookmark href="https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04" id="124">
+      <title>How To Install Nginx on Ubuntu 20.04 | DigitalOcean</title>
+    </bookmark>
+    <bookmark href="https://www.dynadot.com/account/domain/name/edit.html?domain_id=16187808" id="125">
+      <title>Edit a Domain</title>
+    </bookmark>
+    <bookmark href="https://lookup.icann.org/en" id="126">
+      <title>ICANN Lookup</title>
+    </bookmark>
+    <bookmark href="https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04" id="127">
+      <title>How To Set Up a Node.js Application for Production on Ubuntu 20.04 | DigitalOcean</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=9zUHg7xjIqQ&amp;t=9s" id="128">
+      <title>(695) Learn Docker - DevOps with Node.js &amp; Express - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.digitalocean.com/community/tutorials/how-to-set-up-a-continuous-deployment-pipeline-with-gitlab-ci-cd-on-ubuntu-18-04" id="129">
+      <title>How To Set Up a Continuous Deployment Pipeline with GitLab CI/CD on Ubuntu 18.04 | DigitalOcean</title>
+    </bookmark>
+    <bookmark href="https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-20-04" id="130">
+      <title>How to Add and Delete Users on Ubuntu 20.04 | DigitalOcean</title>
+    </bookmark>
+    <bookmark href="https://www.digitalocean.com/community/tutorials/nginx-reverse-proxy-node-angular" id="177">
+      <title>NGINX as Reverse Proxy for Node or Angular application | DigitalOcean</title>
+    </bookmark>
+    <bookmark href="https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-20-04-quickstart" id="178">
+      <title>How To Install Docker Compose on Ubuntu 20.04 [Quickstart] | DigitalOcean</title>
+    </bookmark>
+    <bookmark href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04" id="179">
+      <title>How To Install and Use Docker on Ubuntu 18.04 | DigitalOcean</title>
+    </bookmark>
+    <bookmark href="https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart" id="180">
+      <title>How To Install PostgreSQL on Ubuntu 20.04 [Quickstart] | DigitalOcean</title>
+    </bookmark>
+    <bookmark href="https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-with-nginx-on-ubuntu-20-04" id="181">
+      <title>How To Deploy a React Application with Nginx on Ubuntu 20.04 | DigitalOcean</title>
+    </bookmark>
+    <bookmark href="https://viblo.asia/s/series-hoc-docker-cicd-tu-co-ban-den-ap-dung-vao-thuc-te-jeZ103QgKWz" id="182">
+      <title>[Series] Học Docker, CICD từ cơ bản đến áp dụng vào thực tế - Viblo</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=kTp5xUtcalw" id="183">
+      <title>(736) Docker Containers and Kubernetes Fundamentals – Full Hands-On Course - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="88">
+    <title>English</title>
+    <bookmark href="https://www.youtube.com/watch?v=GC4xwIK_FWY&amp;list=PLnwkiTgOYjUwgWrM8OsRUPewlGHZq4GDC&amp;index=1" id="131">
+      <title>(346) [Elight] - #1 Đại từ nhân xưng và động từ tobe, tính từ sở hữu - Ngữ pháp tiếng Anh cơ bản - YouTube</title>
+    </bookmark>
+    <bookmark href="https://elight.edu.vn/bai-giang-tieng-anh-cho-nguoi-mat-goc/" id="132">
+      <title>75 bài giảng tiếng Anh online căn bản cực kì hữu ích dành cho người mất gốc</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=gs-1octPLU0&amp;list=PLSMUNCcswpNXTV7Zw_XCBDWBWmVaZKKOC&amp;index=25" id="133">
+      <title>(346) PRONOUN (Đại từ trong tiếng Anh) là gì? Các loại đại từ, ứng dụng trong IELTS| IELTS FIGHTER - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.ldoceonline.com/" id="134">
+      <title>Longman Dictionary of Contemporary English | LDOCE</title>
+    </bookmark>
+    <bookmark href="https://www.languageguide.org/ti%C3%AA%CD%81ng-anh/t%3F-v%3Fng/" id="135">
+      <title>Từ vựng Tiếng Anh - LanguageGuide.org</title>
+    </bookmark>
+    <bookmark href="https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/" id="136">
+      <title>Từ điển Cambridge tiếng Anh–Việt: Dich từ tiếng Anh sang tiếng Việt</title>
+    </bookmark>
+    <bookmark href="https://dictionary.cambridge.org/vi/translate/" id="137">
+      <title>DỊCH THUẬT sang tiếng Anh, tiếng Tây Ban Nha, tiếng Pháp và hơn thế nữa với Cambridge</title>
+    </bookmark>
+    <bookmark href="https://easyworldofenglish.com/grammar-levels/" id="138">
+      <title>Grammar – EWE – Easy World Of English</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=6KzHdJNvdoE&amp;list=PL43YjTtbLaNTTeopFpmrqXcAsxk6L1J7J" id="139">
+      <title>(19) UCAN - TRỌN BỘ NGỮ PHÁP TIẾNG ANH CƠ BẢN | #1 Danh từ đếm được không đếm được [Ucan English gramar] - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=mvFnVQC6KVs&amp;list=PL43YjTtbLaNSSjLsrcwk5z7BZ5PWFOrNa&amp;index=1" id="140">
+      <title>(19) 111 PHRASAL VERBS THÔNG DỤNG | Bài 1: Cụm động từ với Get [Ucan English] - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=zZAO2VV491I&amp;list=PL43YjTtbLaNQ8EcD5r4qqFytU1zkT983L" id="184">
+      <title>(19) Learn English Via Listening | Beginner - Lesson 100. Homework - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@Ieltsadvantage/playlists" id="185">
+      <title>(19) IELTS Advantage - YouTube</title>
+    </bookmark>
+    <bookmark href="https://moon.vn/khoa-hoc/1936" id="186">
+      <title>Moon.vn - Học để khẳng định mình</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@hoctienganhcungcominhtrang4482" id="187">
+      <title>(3) Học Tiếng Anh cùng Cô Minh Trang - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="89">
+    <title>MacOS</title>
+    <bookmark href="https://github.com/localsend/localsend" id="141">
+      <title>GitHub - localsend/localsend: An open-source cross-platform alternative to AirDrop</title>
+    </bookmark>
+    <bookmark href="https://github.com/InkTimeRecord/TTime" id="142">
+      <title>GitHub - InkTimeRecord/TTime: 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件</title>
+    </bookmark>
+    <bookmark href="https://github.com/tisfeng/Easydict" id="143">
+      <title>GitHub - tisfeng/Easydict: 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.</title>
+    </bookmark>
+    <bookmark href="https://github.com/iawia002/lux" id="144">
+      <title>GitHub - iawia002/lux: 👾 Fast and simple video download library and CLI tool written in Go</title>
+    </bookmark>
+    <bookmark href="https://github.com/GopeedLab/gopeed" id="145">
+      <title>GitHub - GopeedLab/gopeed: A modern download manager that supports all platforms. Built with Golang and Flutter.</title>
+    </bookmark>
+    <bookmark href="https://github.com/agalwood/Motrix" id="146">
+      <title>GitHub - agalwood/Motrix: A full-featured download manager.</title>
+    </bookmark>
+    <bookmark href="https://github.com/lihaoyun6/QuickRecorder" id="147">
+      <title>GitHub - lihaoyun6/QuickRecorder: A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具</title>
+    </bookmark>
+    <bookmark href="https://github.com/Caldis/Mos" id="148">
+      <title>GitHub - Caldis/Mos: 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS</title>
+    </bookmark>
+    <bookmark href="https://github.com/ntfstool/ntfstool" id="149">
+      <title>GitHub - ntfstool/ntfstool: A ntfs tool for mac</title>
+    </bookmark>
+  </folder>
+  <folder id="90">
+    <title>Base</title>
+    <bookmark href="https://github.com/hoalongnatsu/react-starter-kit?fbclid=IwAR3hMK0bC910YQD0IK7l4Js8DvVQlK9OYaHjmzUdumr3eQ2hNkfdKOj4EiQ" id="150">
+      <title>hoalongnatsu/react-starter-kit</title>
+    </bookmark>
+    <bookmark href="https://github.com/kriasoft/react-starter-kit" id="151">
+      <title>kriasoft/react-starter-kit: The web&apos;s most popular Jamstack front-end template (boilerplate) for building web applications with React</title>
+    </bookmark>
+    <bookmark href="https://github.com/notiz-dev/nestjs-prisma-starter" id="152">
+      <title>notiz-dev/nestjs-prisma-starter: Starter template for NestJS 😻 includes GraphQL with Prisma Client, Passport-JWT authentication, Swagger Api and Docker</title>
+    </bookmark>
+    <bookmark href="https://github.com/xmlking/ngx-starter-kit" id="153">
+      <title>xmlking/ngx-starter-kit: Angular NestJS Starter Kit</title>
+    </bookmark>
+    <bookmark href="https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate" id="154">
+      <title>joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate: This is a boilerplate build with Vite, React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.</title>
+    </bookmark>
+    <bookmark href="https://github.com/monstar-lab-oss/nestjs-starter-rest-api" id="155">
+      <title>monstar-lab-oss/nestjs-starter-rest-api: NestJS Starter Kit. Monolithic Backend. REST API.</title>
+    </bookmark>
+    <bookmark href="https://github.com/YDJ-FE/ts-react-vite_or_webpack" id="156">
+      <title>YDJ-FE/ts-react-vite_or_webpack: a starter-template with typescript, react, mobx and vite/webpack...</title>
+    </bookmark>
+    <bookmark href="https://github.com/antfu/vitesse" id="157">
+      <title>antfu/vitesse: 🏕 Opinionated Vite + Vue Starter Template</title>
+    </bookmark>
+    <bookmark href="https://github.com/microsoft/TypeScript-Vue-Starter" id="158">
+      <title>microsoft/TypeScript-Vue-Starter: A starter template for TypeScript and Vue with a detailed README describing how to use the two together.</title>
+    </bookmark>
+    <bookmark href="https://github.com/brocoders/nestjs-boilerplate" id="159">
+      <title>brocoders/nestjs-boilerplate: NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.</title>
+    </bookmark>
+    <bookmark href="https://github.com/squareboat/nestjs-boilerplate?ref=hackernoon.com" id="198">
+      <title>squareboat/nestjs-boilerplate at hackernoon.com</title>
+    </bookmark>
+    <bookmark href="https://github.com/ahmetuysal/nest-hackathon-starter?ref=hackernoon.com" id="199">
+      <title>ahmetuysal/nest-hackathon-starter at hackernoon.com</title>
+    </bookmark>
+    <bookmark href="https://github.com/NarHakobyan/awesome-nest-boilerplate?ref=hackernoon.com" id="200">
+      <title>NarHakobyan/awesome-nest-boilerplate at hackernoon.com</title>
+    </bookmark>
+  </folder>
+  <folder id="163">
+    <title>Funny</title>
+    <bookmark href="https://www.youtube.com/watch?v=ftU9LLRvJ3M" id="175">
+      <title>(4) Màn “tỉ thí” nhạc cụ đỉnh cao của Phan Mạnh Quỳnh và MC Long Vũ | Cuộc hẹn cuối tuần - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=2jiOBCJ1Ioo" id="176">
+      <title>(8) Cuộc hẹn cuối tuần full | Phan Mạnh Quỳnh tấu hài cực mặn sân khấu VTV - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="164">
+    <title>Roadmap</title>
+    <bookmark href="https://roadmap.sh/nodejs" id="188">
+      <title>Node.js Developer Roadmap: Learn to become a modern node.js developer</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/backend" id="189">
+      <title>Backend Developer Roadmap</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/react" id="190">
+      <title>React Developer Roadmap: Learn to become a React developer</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/vue" id="191">
+      <title>Vue Developer Roadmap: Learn to become a Vue developer</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/typescript" id="192">
+      <title>TypeScript Roadmap: Learn to become a TypeScript developer</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/python" id="193">
+      <title>Learn to become a modern Python developer</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/docker" id="194">
+      <title>Docker Roadmap - roadmap.sh</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/design-system" id="195">
+      <title>How to Create a Design System</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/best-practices/api-security" id="196">
+      <title>API Security Best Practices</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/best-practices/aws" id="197">
+      <title>AWS Best Practices</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/javascript" id="202">
+      <title>JavaScript Developer Roadmap: Step by step guide to learn JavaScript</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/sql" id="203">
+      <title>SQL Roadmap - roadmap.sh</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/postgresql-dba" id="204">
+      <title>DBA Roadmap: Learn to become a database administrator with PostgreSQL</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/spring-boot" id="205">
+      <title>Learn to become a modern Spring Boot developer</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/java" id="206">
+      <title>Learn to become a modern Java developer</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/mongodb" id="207">
+      <title>MongoDB Roadmap - roadmap.sh</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/kubernetes" id="208">
+      <title>Kubernetes Roadmap - roadmap.sh</title>
+    </bookmark>
+  </folder>
+  <folder id="201">
+    <title>Vite</title>
+    <bookmark href="https://github.com/hannoeru/vite-plugin-pages" id="209">
+      <title>hannoeru/vite-plugin-pages: File system based route generator for ⚡️Vite</title>
+    </bookmark>
+    <bookmark href="https://github.com/linusang/vite-starter-kit" id="210">
+      <title>linusang/vite-starter-kit: An opinionated Vite starter-kit with Vue 3, TailwindCS, Vitest and unplugin-icons</title>
+    </bookmark>
+    <bookmark href="https://github.com/antfu-collective/vitesse?tab=readme-ov-file" id="211">
+      <title>antfu-collective/vitesse: 🏕 Opinionated Vite + Vue Starter Template</title>
+    </bookmark>
+    <bookmark href="https://github.com/buqiyuan/vite-vue3-admin" id="212">
+      <title>buqiyuan/vite-vue3-admin: 迁移至：https://github.com/buqiyuan/vue3-antdv-admin</title>
+    </bookmark>
+  </folder>
+  <folder id="213">
+    <title>LearnOnGithub</title>
+    <bookmark href="https://github.com/everthis/leetcode-js" id="215">
+      <title>everthis/leetcode-js: 2000+ javascript solutions of leetcode problems.</title>
+    </bookmark>
+    <bookmark href="https://github.com/trekhleb/javascript-algorithms" id="216">
+      <title>trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</title>
+    </bookmark>
+  </folder>
+  <folder id="214">
+    <title>Devops</title>
+    <bookmark href="https://www.youtube.com/watch?v=hQcFE0RD0cQ" id="217">
+      <title>DevOps Tutorial for Beginners | Learn DevOps in 7 Hours - Full Course | DevOps Training | Edureka - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Ou9j73aWgyE&amp;list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa" id="218">
+      <title>Day-1 | Fundamentals of DevOps | Free DevOps Course | 45 days | #devopscourse #2023 #learning - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=GJQ36pIYbic&amp;list=PL9ooVrP1hQOE5ZDJJsnEXZ2upwK7aTYiX" id="219">
+      <title>DevOps Tutorial For Beginners | What Is DevOps | DevOps Tools | DevOps Training | Edureka DevOps - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=j5Zsa_eOXeY" id="220">
+      <title>DevOps Engineering Course for Beginners - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Wvf0mBNGjXY" id="221">
+      <title>DevOps Prerequisites Course - Getting started with DevOps - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="222">
+    <title>Algorithms and Data Structures</title>
+    <bookmark href="https://coderbyte.com/" id="227">
+      <title>Coderbyte | Code Screening, Challenges, &amp; Interview Prep</title>
+    </bookmark>
+    <bookmark href="https://leetcode.com/" id="228">
+      <title>LeetCode - The World&apos;s Leading Online Programming Learning Platform</title>
+    </bookmark>
+    <bookmark href="https://practice.geeksforgeeks.org/" id="229">
+      <title>GeeksforGeeks Courses | Practice | GeeksforGeeks</title>
+    </bookmark>
+    <bookmark href="https://exercism.io/" id="230">
+      <title>Exercism</title>
+    </bookmark>
+    <bookmark href="https://github.com/mutedblues/FCC/tree/master/Basic-Data-Structures" id="231">
+      <title>FCC/Basic-Data-Structures at master · mutedblues/FCC</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=w2CqTZQSeZM&amp;list=PLw-L1SGSvTEdnuu1pNcjjPkzjxWaX8qtn" id="232">
+      <title>Vol200 - Leetcode - Problem 575 - Distribute candies - Golang - Phỏng vấn - Thuật toán - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Oa6RdKKqiEE&amp;list=PLw-L1SGSvTEdxR0nCUvHf1tl6n22UoVfb" id="233">
+      <title>Giới thiệu trang web leetcode.com - Phỏng vấn - Thuật toán - YouTube</title>
+    </bookmark>
+    <bookmark href="https://github.com/mutedblues/FCC" id="234">
+      <title>mutedblues/FCC: A place to archive my work on FreeCodeCamp</title>
+    </bookmark>
+    <bookmark href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-plus-operator" id="235">
+      <title>Basic JavaScript: Concatenating Strings with Plus Operator | freeCodeCamp.org</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=KsbdeXLau08&amp;list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L" id="236">
+      <title>(341) Bubble Sort Algorithm | Thuật toán sắp xếp Bubble - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=IKHV6KV6n7I&amp;list=PLoaAbmGPgTSOrVuxwbnDJ14U9J6CXJXUk" id="250">
+      <title>(341) Design pattern #1: Khái niệm cơ bản - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=gX54HnLpiog&amp;list=PLoaAbmGPgTSMpPS7L1vFDRsPCFvncUc_D" id="251">
+      <title>(341) Lập trình hướng đối tượng #1: OOP là cái gì? - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Q7UuJAhysZg&amp;list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L" id="252">
+      <title>(3) Cấu trúc dữ liệu và thuật toán #1 | Data structures and Algorithms - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.hackerrank.com/" id="253">
+      <title>HackerRank</title>
+    </bookmark>
+  </folder>
+  <folder id="223">
+    <title>Payment</title>
+    <bookmark href="https://stripe.com/docs/testing?testing-method=card-numbers#visa" id="237">
+      <title>Testing | Stripe Documentation</title>
+    </bookmark>
+  </folder>
+  <folder id="224">
+    <title>hackintosh</title>
+    <bookmark href="https://olarila.com/topic/6278-olarila-vanilla-images-macos-installer/" id="238">
+      <title>Olarila Vanilla Images - macOS Installer - Olarila Images - Hackintosh Olarila</title>
+    </bookmark>
+  </folder>
+  <folder id="225">
+    <title>linux</title>
+    <bookmark href="https://github.com/karlstav/cava?tab=readme-ov-file#pipewire" id="239">
+      <title>karlstav/cava: Cross-platform Audio Visualizer</title>
+    </bookmark>
+    <bookmark href="https://fcitx-im.org/wiki/Using_Fcitx_5_on_Wayland" id="240">
+      <title>Using Fcitx 5 on Wayland - Fcitx</title>
+    </bookmark>
+    <bookmark href="https://developers.cloudflare.com/1.1.1.1/setup/linux/" id="241">
+      <title>Set up 1.1.1.1 on Linux · Cloudflare 1.1.1.1 docs</title>
+    </bookmark>
+    <bookmark href="https://github.com/tpope/vim-surround" id="242">
+      <title>tpope/vim-surround: surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</title>
+    </bookmark>
+    <bookmark href="https://github.com/kunkka19xx/dotfiles/tree/master" id="243">
+      <title>kunkka19xx/dotfiles: My dotfiles with GNU stow</title>
+    </bookmark>
+    <bookmark href="https://github.com/codeaholicguy/dotfiles" id="244">
+      <title>codeaholicguy/dotfiles: A set of vim, zsh, and tmux configuration files for JavaScript Developer who likes to use Vim/NeoVim on macOS.</title>
+    </bookmark>
+    <bookmark href="https://github.com/VuNguyenCoder/VimConfig/tree/main" id="245">
+      <title>VuNguyenCoder/VimConfig</title>
+    </bookmark>
+    <bookmark href="https://github.com/TheTechRun/public-nixos/blob/master/modules/builds/xdman8.nix" id="246">
+      <title>public-nixos/modules/builds/xdman8.nix at master · TheTechRun/public-nixos</title>
+    </bookmark>
+  </folder>
+  <folder id="226">
+    <title>youtube-revenced</title>
+    <bookmark href="https://github.com/inotia00" id="247">
+      <title>inotia00</title>
+    </bookmark>
+    <bookmark href="https://github.com/TeamVanced" id="248">
+      <title>Vanced</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://10fastfingers.com/typing-test/vietnamese" id="249">
+    <title>Kiểm tra tốc độ đánh máy Vietnamese - 10FastFingers.com</title>
+  </bookmark>
+  <bookmark href="https://www.douyin.com/user/MS4wLjABAAAAQI27Yoo_dQTzkGIp9N90I7aElaQ-zjeFXAcOFEfcAms" id="254">
+    <title>潘蕾亦的主页 - 抖音</title>
+  </bookmark>
+  <bookmark href="https://snippet-generator.app/?description=Async+function+service+nestJs&amp;tabtrigger=asyncnest&amp;snippet=async+%24%7B1%3AtemplateFunction%7D%28%24%7B2%3Aparam%7D%29%7B%0A%7D&amp;mode=vscode" id="255">
+    <title>snippet generator</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=YYta5uWViJc&amp;list=PLEKndr7_Yo6lW1E87nu3TIRvlg5gcbKht&amp;index=12" id="256">
+    <title>8 Cấu Trúc Dữ Liệu cơ bản mà Dev nào cũng nên biết - Code Dạo Dễ Òm - YouTube</title>
+  </bookmark>
+  <bookmark href="https://github.com/getify/You-Dont-Know-JS/tree/1st-ed" id="257">
+    <title>getify/You-Dont-Know-JS at 1st-ed</title>
+  </bookmark>
+  <bookmark href="https://docs.emmet.io/cheat-sheet/" id="258">
+    <title>Cheat Sheet</title>
+  </bookmark>
+  <bookmark href="https://github.com/emilwallner/Screenshot-to-code" id="259">
+    <title>emilwallner/Screenshot-to-code: A neural network that transforms a design mock-up into a static website.</title>
+  </bookmark>
+  <bookmark href="https://github.com/Asabeneh/10-days-of-git-and-github" id="260">
+    <title>Asabeneh/10-days-of-git-and-github: Some video lessons on YouTube: This videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw</title>
+  </bookmark>
+  <bookmark href="https://90phuttv.link/" id="261">
+    <title>https://90phuttv.link/</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@thanhit1802/videos" id="262">
+    <title>THANH IT - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@TITVvn/playlists" id="263">
+    <title>TITV - YouTube</title>
+  </bookmark>
+  <bookmark href="https://tv360.vn/movie/yu-gi-oh-duel-monsters?m=19612" id="264">
+    <title>Yu-Gi-Oh! Duel Monsters</title>
+  </bookmark>
+  <bookmark href="https://patorjk.com/software/taag/#p=testall&amp;f=Graffiti&amp;t=Leomin" id="265">
+    <title>Text to ASCII Art Generator (TAAG)</title>
+  </bookmark>
+  <bookmark href="https://viblo.asia/p/cai-dat-wsl-wsl2-tren-windows-10-de-code-nhu-tren-ubuntu-4P856oM1KY3" id="266">
+    <title>Cài đặt WSL / WSL2 trên Windows 10 để code như trên Ubuntu</title>
+  </bookmark>
+  <bookmark href="https://github.com/ajeetdsouza/zoxide" id="267">
+    <title>ajeetdsouza/zoxide: A smarter cd command. Supports all major shells.</title>
+  </bookmark>
+  <bookmark href="https://github.com/craftzdog/dotfiles-public" id="268">
+    <title>craftzdog/dotfiles-public: My personal dotfiles</title>
+  </bookmark>
+  <bookmark href="https://flathub.org/" id="269">
+    <title>Flathub - Apps for Linux</title>
+  </bookmark>
+</folder>
+<folder id="1">
+  <title>Other Bookmarks</title>
+</folder>
+</xbel>
